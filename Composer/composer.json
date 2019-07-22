@@ -1,0 +1,15 @@
+{
+    "name": "ariel/composer",
+    "description": "Aula de php 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ariel Franco",
+            "email": "ariel.franco.ferreira@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}

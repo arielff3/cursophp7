@@ -1,0 +1,32 @@
+        <ABIENTE APACHE/MSSQL
+Arquivo de configuração do apache é: HTTPD.CONF
+Porta apache: 80, 443
+Porta MySQL: 5632
+
+        <GITHUB>
+mkdir: adicionar uma pasta (cmd)
+
+
+        <PHP>
+Request: Pedido/Solicitação/Requisição
+PHP sempre retorna em HTML.
+Estrutura servidor/client: CLIENTE > Request > SERVIDOR > RESPONSE (HTML)
+                                            URI's       
+Estrutura url: https://       www.       google.com/      imagens/      logo.pgn        ?           titulo=ariel
+               Protocolo   Subdomínio     Domínio       Subdiretório     arquivo     Fim da URL        Variável
+
+function trocaValor(&$a){}
+     & = Passagem de código por referência 
+
+Camadas: Banco de dados, PHP ( Que conversa com o banco de dados ) e a tela frontal (Front-end).
+
+DAO : DATA ACESS OBJECT 
+Eicho x : deitado
+Eicho y : Em pé
+        INCLUDE & REQUIRE
+
+require: obriga que o arquivo exista e que o arquivo esteja funcionando corretamente.
+include: Tenta funcionar mesmo que o arquivo não exista ou esteja com algum tipo de erro     
+
+        JSON
+Json: Java Script Object Notation
